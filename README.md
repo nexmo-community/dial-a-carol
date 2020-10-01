@@ -9,4 +9,4 @@ You need to have the following installed:
 
 Run the code on your web server (you'll need to modfy the code to include your server details) or run locally using Ngrok.
 
-[Dial a Christmas Carol blog Post](https://www.nexmo.com/blog/2018/11/29/dial-a-christmas-carol-with-nexmo-and-python-dr/)
+[Dial a Christmas Carol blog Post](https://www.nexmo.com/blog/2018/12/03/dial-a-christmas-carol-with-nexmo-and-python-dr)
