@@ -7,7 +7,8 @@ You need to have the following installed:
 * Request
 * Flask
 
-You can download the libraries by using the `pip` command
+You can download the libraries by using the `pip` command:
+
 `$ pip install flask`
 
 `$ pip install requests`
