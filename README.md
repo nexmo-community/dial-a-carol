@@ -8,8 +8,9 @@ You need to have the following installed:
 * Flask
 
 You can download the libraries by using the `pip` command
-1. `pip install flask`
-2. `pip install requests`
+`$ pip install flask`
+
+`$ pip install requests`
 
 Since the `requirements.txt` is included in the repo, you can simply execute the following command
 
