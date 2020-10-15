@@ -5,7 +5,7 @@ You need to have the following installed:
 
 [Python 3.x](https://www.python.org/downloads/)
 * Request - Use the following command in your terminal to install Request: `pip install requests` 
-* Flask - Use the following command in your terminal to install Request: `pip install Flask`
+* Flask - Use the following command in your terminal to install Request: `pip install flask`
 
 You can download the libraries by using the `pip` command:
 
@@ -19,6 +19,8 @@ Since the `requirements.txt` is included in the repo, you can simply execute the
 
 This will download the required libraries for you.
 
-Finally, run the code on your web server (you'll need to modify the code to include your server details) or run locally using Ngrok.
+Finally, run the code on your web server (you'll need to modify the code to include your server details) or run locally using Ngrok.</br>
+
+you can also change tunes you want
 
 A much detailed overview can be found at this blog [Dial a Christmas Carol with Nexmo and Python](https://www.nexmo.com/blog/2018/12/03/dial-a-christmas-carol-with-nexmo-and-python-dr)
