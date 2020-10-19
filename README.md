@@ -30,7 +30,7 @@ You need to have the following installed:
 
 You can download the libraries by using the `pip` command:
 
-`$ pip install flask`
+`$ pip install Flask`
 
 `$ pip install requests`
 
@@ -59,4 +59,7 @@ To get started:
 •	Create a pull request [here](https://github.com/nexmo-community/dial-a-carol/pulls). [See this page for a guide on making pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## License
-  Distributed under **MIT** License.See `License` for more information.
+
+This project is distributed under **MIT** License. See [`License`][license] for more information.
+
+[license]: LICENSE
