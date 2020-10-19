@@ -1,6 +1,6 @@
 # dial-a-carol
 
-Table of contents
+Table of Contents
 =================
 
 <!--ts-->
